@@ -17,7 +17,7 @@ Beachten Sie bitte die Zitationsvorgaben gemäß den Richtlinien der Hochschule 
 
 Achten Sie darauf, die Angaben des Studien- und Prüfungsamts gemäß diesem Link bei der Erstellung Ihrer Abschlussarbeit zu berücksichtigen: https://intern.hnu.de/einrichtungen/referate-studium-pruefung/formulare-und-anleitungen insb. der Punkt "EXAMS" > "Abschlussarbeit". Dort finden Sie insbesondere wertvolle Hinweise zur Verschriftlichung und Bewertung Ihrer Abschlussarbeit (siehe z.B. Dokument "Leitlinien für wisschenschaftliche Arbeiten - Fakultät IM").
 
-**Wie sollten Studierende mit einem Sperrvermerk in ihrer Arbeit umgehen?**
+**Wie sollten Studierende mit einem Sperrvermerk bei Veröffentlichung in ihrer Arbeit umgehen?**
 
 Falls Ihre Arbeit vertrauliche Daten enthält, können diese entweder geschwärzt werden oder in einem geschützten Anhang mit Sperrvermerk ausgelagert werden. Es ist wichtig, dass die Geheimhaltungsvereinbarung des kooperierenden Unternehmens eingehalten wird.
 
@@ -37,4 +37,4 @@ Ja, die gibt es.
 
 **Muss ich die Abschlussarbeit verteidigen/präsentieren nach Fertigstellung?**
 
-Kurz gesagt: Ja. Nach Abschluss müssen Sie Ihre Arbeit entsprechend im Unternehmen oder mir präsentieren und Fragen dazu beantworten können. Dies stellt in der Regel keinerlei Probleme dar, sofern Sie die Arbeit gewissenhaft und eigenständig angefertigt haben.
+Kurz gesagt: Ja. Nach Abschluss müssen Sie Ihre Arbeit entsprechend im Unternehmen oder präsentieren und Fragen dazu beantworten. Dies stellt in der Regel keinerlei Probleme dar, sofern Sie die Arbeit gewissenhaft und eigenständig angefertigt haben.
