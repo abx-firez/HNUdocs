@@ -6,8 +6,10 @@ Bitte beachten Sie außerdem die Inhalte in diesem Ordner: https://github.com/ab
 
 - Entwicklung und prototypische Evaluation eines Kriterien-/Patternkatalogs für nachhaltige Softwarearchitekturen
 
+- KI-Agentensysteme zur Erkennung und Begleitung von Lernblockaden: Wie lassen sich Lernblockaden sichtbar machen – ohne sie zu pathologisieren? Und wie kann KI nicht als Steuerungsinstanz, sondern als resonante Mitspielerin im Bildungsprozess wirken? - In Kooperation mit POTENTIALO®, Sabine Gessenich
 
-### Vorschläge für Bachelor Thesis Themen
+
+### Vorschläge für Bachelor/Master Thesis Themen
 
 - Entwicklung und Design eines Datenvisualisierungstools, auf Basis mobiler Sensordaten der WLAN Hotspots der HNU
 
@@ -25,9 +27,6 @@ Bitte beachten Sie außerdem die Inhalte in diesem Ordner: https://github.com/ab
   
 - Entwicklung eines agentenbasierten Systems zur Studienberatung – Anforderungsanalyse, Architektur und Implementierung eines LLM-gestützten Chatbots
 
-- Entwicklung eines agentenbasierten Systems zur automatischen Bearbeitung von Github Issues 
-
-
-### Abschlussarbeiten von Unternehmen
-
-Bitte sprechen Sie mich direkt an.
+- Entwicklung eines agentenbasierten Systems zur automatischen Bearbeitung von Github Issues
+  
+- KI-Agentensysteme zur Erkennung und Begleitung von Lernblockaden: Wie lassen sich Lernblockaden sichtbar machen – ohne sie zu pathologisieren? Und wie kann KI nicht als Steuerungsinstanz, sondern als resonante Mitspielerin im Bildungsprozess wirken? - In Kooperation mit POTENTIALO®, Sabine Gessenich
