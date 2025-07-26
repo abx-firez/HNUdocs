@@ -30,3 +30,5 @@ Bitte beachten Sie außerdem die Inhalte in diesem Ordner: https://github.com/ab
 - Entwicklung eines agentenbasierten Systems zur automatischen Bearbeitung von Github Issues
   
 - KI-Agentensysteme zur Erkennung und Begleitung von Lernblockaden: Wie lassen sich Lernblockaden sichtbar machen – ohne sie zu pathologisieren? Und wie kann KI nicht als Steuerungsinstanz, sondern als resonante Mitspielerin im Bildungsprozess wirken? - In Kooperation mit POTENTIALO®, Sabine Gessenich
+
+- Entwicklung einer dynamischen Retro-Gaming-Konsole mit KI-gestützter Spielschwierigkeit: Diese Arbeit beschreibt die Entwicklung einer Retro-Gaming-Konsole, die klassische Spiele emuliert und eine KI-gestützte Funktion zur dynamischen Anpassung der Spielschwierigkeit integriert. Durch die Analyse der Spielerleistung in Echtzeit passt die KI die Herausforderungen an, um ein optimales und individuelles Spielerlebnis zu gewährleisten. Das Projekt kombiniert moderne Technologien mit nostalgischem Gameplay und bietet eine innovative Lösung zur Verbesserung der Benutzererfahrung in Retro-Spielen.
